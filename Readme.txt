@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: eNno
-Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Parmapar Agro
+Template URL: www.parmpara-agro.com
+Author & License: parmpara-agro.com
