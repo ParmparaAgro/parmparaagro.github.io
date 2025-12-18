@@ -28,7 +28,7 @@
   $contact->smtp = array(
     'host' => 'parmpara-agro.com',
     'username' => 'sales',
-    'password' => 'Kadubhau@2025',
+    'password' => 'pass',
     'port' => '587'
   );
 
